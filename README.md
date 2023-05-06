@@ -1,15 +1,14 @@
-# Taking Notes for Class
-### The “source” for your site should be a README.md file, written with Markdown
+## Note Taking Code 102
+Hi, I'm Liz and am building up my programming skills with CodeFellows.
 
-# on main page: 
-## What is growth mindset?
-#
+**Find me:** [Liz Profile 
+page](https://github.com/elizabethpurtell)
 
-# growth mindset is   #
-## 3 Ways to Stay in a Growth Mindset
-+ Look at failures as a way to improve my process.
-+ When feeling stuck, remind myself how far I've come, and where I want to go.
-+ Celebrate milestones and create more goals after reaching each one.
+### What is Growth Mindset?
+Growth mindset, in the simplest terms, is existing in a constant state of open-mindedness. Someone who practices a *growth mindset* will always be looking for ways to improve upon themselves, whether it is with education or personal interactions. When you operate in this type of mindset you understand that there is always room for growth and change.
 
-## use at least 5 different features of markdown to structure the page
-## Introduce myself, include link to portfolio page
+### 3 Ways to Stay in a Growth Mindset:
+
+1. *Look at failures as a way to improve my process.*
+2. *When feeling stuck, remind myself how far I've come, and where I want to go.*
+3. *Celebrate milestones and create more goals after reaching each one.*
