@@ -49,6 +49,6 @@ Growth mindset, in the simplest terms, is existing in a constant state of open-m
 
 #### What are the three symbols you can use to create an unordered (bulleted) list with Markdown? 
 
-*You can use any of these 3 symbols: -, *, +.*
+You can use any of these 3 symbols: -, *, +.
 
 </details>
