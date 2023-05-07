@@ -1,4 +1,4 @@
-## Note Taking Code 102
+## My Note Taking Page (Code 102)
 Hi, I'm Liz and am building up my programming skills with CodeFellows.
 
 **Find me:** [Liz Profile 
