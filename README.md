@@ -12,7 +12,7 @@ page](https://github.com/elizabethpurtell)
 
 **Class 02:** [Text Editors & the Terminal](https://elizabethpurtell.github.io/reading-notes/text-editors)
 
-**Class 03:**
+**Class 03:** [Revisions and the Cloud](https://elizabethpurtell.github.io/reading-notes/revisions-cloud)
 
 **Class 04:**
 
