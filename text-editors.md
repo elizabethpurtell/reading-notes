@@ -28,20 +28,48 @@ It's a way to directly request information from your computer by simply entering
 - Make new files/folders
 - Open files and more
 
+### Beginning Commands
+
+**Changing to a new directory:** cd (change directory), use “ cd projects” ,use with pwd, then ls to list
+
+**To go back one directory:** cd .. (the amount of dots- however many directories back plus one)
+
+**To create a new folder:** mkdir new-folder (make directory space new-folder)
+
+**To create a new file in that folder:** cd new-folder, pwd, new-folder: touch myfile.md
+
+**To go back to the home directory:** cd (all alone no dots)
+
+**“Clear”** will just clear your screen
+
+**Using the up/down arrows-** will cycle through your previous commands
+
+**To search files by letter names:** cd p(plus the tab) - will show all the folders starting with p, add pr and get the projects.
+
+**To get a branch diagram of all your folders:** tree command (only do this for a direct folder not the whole computer
+
+**To stop a command from running:** cntrl button plus c
+
+**To chain together a path you need use fwd/:** for example- cd projects/courses/102
 
 
-
-
-
-
+## Answer
 
 #### What are four important features to look for in a text editor?
+
+1. Code completion 
+2. Syntax highlighting
+3. Choice of visual themes to reduce eye strain
+4. Ability to choose from several extensions
+
 #### What do the following commands do?
-- pwd
-- ls
-- cd
-- mkdir
-- touch
+- pwd: print working directory (you are here command)
+- ls: list (shows the list of all the folders)
+- cd: change directory (by using dots after the cd, you can move between directories)
+- mkdir: make directory (make a new directory)
+- touch: 
+
+
 #### Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
 1. cd projects
 2. mkdir new-project
