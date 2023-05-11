@@ -8,7 +8,11 @@
 **Code editors:** GitHubs Atom, MS- VS code, visual studio, NotePad++, Vim,Emacs, Nano, etc
 
 ### The Terminal- The command line interface (cli)
-There are two types of file explorers- standard find files by point and click and using a terminal. They each have similar tasks but using the *Terminal* can do so much more by using a command line.
+
+#### What exactly is a command line/terminal? 
+It's a way to directly request information from your computer by simply entering simple text commands/requests. It then responds to your request with simple text information.
+
+#### There are two types of file explorers- standard find files by point and click or using a terminal. They each have similar tasks but using the *Terminal* can do so much more by using a command line.
 
 **File Explorer Tasks:**
 - Find files
