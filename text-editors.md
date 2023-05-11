@@ -63,16 +63,16 @@ It's a way to directly request information from your computer by simply entering
 4. Ability to choose from several extensions
 
 #### What do the following commands do?
-- pwd: print working directory (you are here command)
-- ls: list (shows the list of all the folders)
-- cd: change directory (by using dots after the cd, you can move between directories)
-- mkdir: make directory (make a new directory)
-- touch: 
+- **pwd:** print working directory (you are here command)
+- **ls:** list (shows the list of all the folders)
+- **cd:** change directory (by using dots after the cd, you can move between directories)
+- **mkdir:** make directory (make a new directory)
+- **touch:** creates new, empty files. It is also used to change the timestamps.
 
 
 #### Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
-1. cd projects
-2. mkdir new-project
-3. touch new-project/newfile.md
-4. cd ..
-5. ls projects/new-project
+1. **cd projects:** this will show all the folders named projects.
+2. **mkdir new-project:** this will open/start a new project folder.
+3. **touch new-project/newfile.md:** this will make a new empty file under the new-project folder, named newfile.md (markdown file)
+4. **cd ..:** this will take your back 2 directories from where you currently are.
+5. **ls projects/new-project:** this will pull a list of all the files related to the projects/new-project.
