@@ -52,6 +52,14 @@ It's a way to directly request information from your computer by simply entering
 
 **To chain together a path you need use fwd/:** for example- cd projects/courses/102
 
+### LINKS: 
+
+[OhMyZsh](https://github.com/ohmyzsh/ohmyzsh/)
+
+[OhMyZsh-Cheatsheet](https://github.com/ohmyzsh/ohmyzsh/wiki/Cheatsheet)
+
+[Linux Tutorial-Terminal](https://ryanstutorials.net/linuxtutorial/navigation.php)
+
 
 ## Answer
 
