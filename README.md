@@ -4,7 +4,7 @@ Hi, I'm Liz and am building up my programming skills with CodeFellows.
 **Find me:** [Liz Profile 
 page](https://github.com/elizabethpurtell)
 
-### Code 102 Class Notes:
+### CODE-102 Class Notes
 
 **Class 01:** [Growth Mindset](https://elizabethpurtell.github.io/reading-notes/growth-mindset)
 
