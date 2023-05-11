@@ -1,4 +1,4 @@
-## Class 02: Command lines/Text editors
+## Class 02: Text editors & the Terminal
 
 
 ### Text Editors:	
