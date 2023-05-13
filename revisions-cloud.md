@@ -73,17 +73,25 @@ Receiving objects: 100% (3/3), done.
 - Every single time you are ready to update github you must go through the ACP process!
 - First- “git add (your file to save), then “git commit -m (“with a message of why you made changes”)”, then “git push origin main” to push the changes up to github cloud. Be sure to use git status in between each stage to check for problems.
 
+#### Files in Git can reside in three main states: *committed, modified and staged.*
+- **Committed-** Data is securely stored in a local database
+- **Modified-** File has been changed but not committed to the database
+- **Staged-** Flagged a file’s changed version to be committed in the next snapshot
 
+#### The Life Cycle of File Status
+1. After you edit a file, Git flags it as modified because of changes made after the previous commit.
+2. You stage the modified file.
+3. Then, you commit staged changes.
 
 
 ## Answer
-- What is Version Control? 
-  -  Version control is a way to track the changes made to files without having to save multiple versions. It saves each change of the file so the user can go back and compare, plus see who made the change.
-- What is cloning in Git?
-  - Cloning in git means that you are making a copy of the existing Git repository from one server in order to add it to your own project files or wherever you need to place it, so you are able to work on it.
-- What is the command to track and stage files? 
-  - To track and stage one file you would use the command: "git add filename" 
-- What is the command to take a snapshot of your changed files?
-  - To take a snapshot of the changed file you would use the command: "git commit -a"
-- What is the command to send your changed files to Github?
-  - To send your changed files to GitHub you would use the command: "git push origin main"
+- **What is Version Control?**
+  -  *Version control is a way to track the changes made to files without having to save multiple versions. It saves each change of the file so the user can go back and compare, plus see who made the change.*
+- **What is cloning in Git?**
+  - *Cloning in git means that you are making a copy of the existing Git repository from one server in order to add it to your own project files or wherever you need to place it, so you are able to work on it.*
+- **What is the command to track and stage files?** 
+  - *To track and stage one file you would use the command: "git add filename"* 
+- **What is the command to take a snapshot of your changed files?**
+  - *To take a snapshot of the changed file you would use the command: "git commit -a"*
+- **What is the command to send your changed files to Github?**
+  - *To send your changed files to GitHub you would use the command: "git push origin main"*
