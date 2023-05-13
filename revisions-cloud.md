@@ -1,11 +1,9 @@
 # CLASS 03: Revisions and the Cloud
-## Using git, github, your Terminal & VScode
-
-[Read Git Intro](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+## Using git, GitHub, the Terminal & VScode
 
 ### What is git? How does it relate to GitHub?
 
-Git allows sharing of code and collaborations with other people. Git is the version control and GitHub is the online code storage
+*Git allows sharing of code and collaborations with other people. Git is the version control and GitHub is the online code storage.*
 
 #### Attributes of git:
 - has a version control system
@@ -83,6 +81,8 @@ Receiving objects: 100% (3/3), done.
 2. You stage the modified file.
 3. Then, you commit staged changes.
 
+Notes gathered from Udemy site and class 03 video
+[Read Git Intro](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
 ## Answer
 - **What is Version Control?**
