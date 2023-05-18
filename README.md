@@ -16,21 +16,21 @@
 
 ## Code 102 Reading Notes
 
-[Class 01: Markdown](link to page)
+[Class 01: Markdown](https://elizabethpurtell.github.io/reading-notes/class01.md)
 
-[Class 02: Text Editors & the Terminal](link to page)
+[Class 02: Text Editors & the Terminal](https://elizabethpurtell.github.io/reading-notes/class02.md)
 
-[Class 03: Revisions and the Cloud](link to page)
+[Class 03: Revisions and the Cloud](https://elizabethpurtell.github.io/reading-notes/class03.md)
 
-[Class 04: Structure Web Pages with HTML](link to page)
+[Class 04: Structure Web Pages with HTML](https://elizabethpurtell.github.io/reading-notes/class04.md)
 
-[Class 05: Design Web Pages with CSS](link to page)
+[Class 05: Design Web Pages with CSS](https://elizabethpurtell.github.io/reading-notes/class05.md)
 
-[Class 06: Dynamic Web Pages with JavaScript](link to page)
+[Class 06: Dynamic Web Pages with JavaScript](https://elizabethpurtell.github.io/reading-notes/class06.md)
 
-[Class 07: Programming with JavaScript](link to page)
+[Class 07: Programming with JavaScript](https://elizabethpurtell.github.io/reading-notes/class07.md)
 
-[Class 08: Operators and Loops](link to page)
+[Class 08: Operators and Loops](https://elizabethpurtell.github.io/reading-notes/class08.md)
 
 ---
 ---
