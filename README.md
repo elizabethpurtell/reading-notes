@@ -18,54 +18,54 @@
 
 [Class 01: Markdown](/Code102-Notes/class01.md)
 
-[Class 02: Text Editors & the Terminal](https://elizabethpurtell.github.io/reading-notes/class02.md)
+[Class 02: Text Editors & the Terminal](/Code102-Notes/class02.md)
 
-[Class 03: Revisions and the Cloud](https://elizabethpurtell.github.io/reading-notes/class03.md)
+[Class 03: Revisions and the Cloud](/Code102-Notes/class03.md)
 
-[Class 04: Structure Web Pages with HTML](https://elizabethpurtell.github.io/reading-notes/class04.md)
+[Class 04: Structure Web Pages with HTML](/Code102-Notes/class04.md)
 
-[Class 05: Design Web Pages with CSS](https://elizabethpurtell.github.io/reading-notes/class05.md)
+[Class 05: Design Web Pages with CSS](/Code102-Notes/class05.md)
 
-[Class 06: Dynamic Web Pages with JavaScript](https://elizabethpurtell.github.io/reading-notes/class06.md)
+[Class 06: Dynamic Web Pages with JavaScript](/Code102-Notes/class06.md)
 
-[Class 07: Programming with JavaScript](https://elizabethpurtell.github.io/reading-notes/class07.md)
+[Class 07: Programming with JavaScript](/Code102-Notes/class07.md)
 
-[Class 08: Operators and Loops](https://elizabethpurtell.github.io/reading-notes/class08.md)
+[Class 08: Operators and Loops](/Code102-Notes/class08.md)
 
 ---
 ---
 
 ## Code 201 Reading Notes
 
-[Class 01: Title](link to page)
+[Class 01: Title](/Code201-Notes/class01.md)
 
-[Class 02: Title](link to page)
+[Class 02: Title](/Code201-Notes/class02.md)
 
-[Class 03: Title](link to page)
+[Class 03: Title](/Code201-Notes/class03.md)
 
-[Class 04: Title](link to page)
+[Class 04: Title](/Code201-Notes/class04.md)
 
-[Class 05: Title](link to page)
+[Class 05: Title](/Code201-Notes/class05.md)
 
-[Class 06: Title](link to page)
+[Class 06: Title](/Code201-Notes/class06.md)
 
-[Class 07: Title](link to page)
+[Class 07: Title](/Code201-Notes/class07.md)
 
-[Class 08: Title](link to page)
+[Class 08: Title](/Code201-Notes/class08.md)
 
-[Class 09: Title](link to page)
+[Class 09: Title](/Code201-Notes/class09.md)
 
-[Class 10: Title](link to page)
+[Class 10: Title](/Code201-Notes/class10.md)
 
-[Class 11: Title](link to page)
+[Class 11: Title](/Code201-Notes/class11.md)
 
-[Class 12: Title](link to page)
+[Class 12: Title](/Code201-Notes/class12.md)
 
-[Class 13: Title](link to page)
+[Class 13: Title](/Code201-Notes/class13.md)
 
-[Class 14: Title](link to page)
+[Class 14: Title](/Code201-Notes/class14.md)
 
-[Class 15: Title](link to page)
+[Class 15: Title](/Code201-Notes/class15.md)
 
 ---
 ---
