@@ -16,7 +16,7 @@
 
 ## Code 102 Reading Notes
 
-[Class 01: Markdown](https://elizabethpurtell.github.io/reading-notes/class01.md)
+[Class 01: Markdown](https://elizabethpurtell.github.io/reading-notes/Code102-Notes/class01.md)
 
 [Class 02: Text Editors & the Terminal](https://elizabethpurtell.github.io/reading-notes/class02.md)
 
