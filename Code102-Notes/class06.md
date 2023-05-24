@@ -9,11 +9,12 @@
 
 ```md
 
-What is JavaScript? - Learn web development | MDN
+What is JavaScript?
 JavaScript is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything else.
-[Answer Quote](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
 ```
+
+[Quote link](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
 ### Who wrote it and when?
 
