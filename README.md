@@ -1,4 +1,4 @@
-# My Note Taking Pages
+# Reading Notes
 
 ---
 ---
@@ -14,7 +14,7 @@
 
 ## Table of Contents
 
-## Code 102 Reading Notes
+## Code 102 Intro to Software Development
 
 [Class 01: Markdown](/Code102-Notes/class01.md)
 
@@ -35,7 +35,7 @@
 ---
 ---
 
-## Code 201 Reading Notes
+## Code 201 Foundations of Software Development
 
 [Class 01: Title](/Code201-Notes/class01.md)
 
@@ -66,6 +66,16 @@
 [Class 14: Title](/Code201-Notes/class14.md)
 
 [Class 15: Title](/Code201-Notes/class15.md)
+
+---
+---
+
+## Code 301 Intermediate Software Development
+
+---
+---
+
+## Code 401 Advanced Software Development
 
 ---
 ---
