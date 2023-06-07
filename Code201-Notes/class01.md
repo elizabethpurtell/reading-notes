@@ -1,4 +1,4 @@
-# Reading Notes: Class 01
+# Class 01 - Setup Developer Toolbelt
 
 ## Statement
 

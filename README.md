@@ -37,7 +37,7 @@
 
 ## Code 201 Foundations of Software Development
 
-[Class 01: Title](/Code201-Notes/class01.md)
+[Class 01: Setup Developer Toolbelt](/Code201-Notes/class01.md)
 
 [Class 02: Title](/Code201-Notes/class02.md)
 
