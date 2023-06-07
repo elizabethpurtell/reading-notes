@@ -11,10 +11,15 @@ The reading notes for Class 01 is a quick overview of the basics of how a websit
 1. Compose a short poem describing how HTTP sends data between computers.
 
     HTTP, the messenger of the digital age,
+
     Requested by the browser,
+
     a connection only possible by TCP/IP,
+
     After an approval, it conveys,
+
     With chunks of data packets combined,
+
     Your eyes will suddenly view, a complete web page in front of you.
 
 2. Describe how HTML, CSS, and JS files are “parsed” in the browser.
