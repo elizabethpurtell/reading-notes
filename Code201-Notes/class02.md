@@ -1,4 +1,4 @@
-# Class 02 - Basics of HTML, CSS & JS
+# Class 02 - Introduction To Web Development
 
 ## Statement
 
@@ -6,7 +6,7 @@ This is a review of the basics from learning HTML, CSS and JavaScript.
 
 ---
 
-### Continued Introduction to HTML
+### Basics of HTML, CSS & JS
 
 1. Why is it important to use semantic elements in our HTML?
 

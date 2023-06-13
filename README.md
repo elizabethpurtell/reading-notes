@@ -39,7 +39,7 @@
 
 [Class 01: Setup Developer Toolbelt](/Code201-Notes/class01.md)
 
-[Class 02: Title](/Code201-Notes/class02.md)
+[Class 02: Introduction To Web Development](/Code201-Notes/class02.md)
 
 [Class 03: Title](/Code201-Notes/class03.md)
 
