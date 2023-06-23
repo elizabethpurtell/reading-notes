@@ -2,7 +2,7 @@
 
 ## Statement
 
-Make a statement about what this section has to do with your learning
+This is a review of the basics from Code 102 covering HTML, CSS and JS. This review will help with diving deeper into JS in the coming labs.
 
 ---
 ---
@@ -21,8 +21,6 @@ Make a statement about what this section has to do with your learning
 4. Describe two ways you can change the numbers on list items provided by an ordered list?
     You can change the numbers in an ordered list by changing the attribute to either 'reversed', which reverses the list order, or change the attribute 'type' to several different options like lowercase letters or uppercase Roman numerals.
 
-[Learn HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
 ---
 
 ### Learn CSS, The Box Model
@@ -40,8 +38,6 @@ Make a statement about what this section has to do with your learning
 - Border box: This wraps the content and any padding. This is the structure of the closet surrounding the content.
   
 - Margin box: This is the outermost layer, wrapping the content, padding, and border as whitespace between this box and other elements. I think of this as the house that the closet ( content ) resides in.
-
-[The Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
 
 ---
 
@@ -109,19 +105,23 @@ Make a statement about what this section has to do with your learning
 
 6. Give an example of when a Loop is useful in JavaScript.
 
-
-[Learn JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
-
+    A good example of a useful loop in JS would be one where you want to check the grades of all the students in a particular class.
 
 ---
 
 ### Bookmark and Review
 
-[title link](link)
+[Learn HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+[The Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
+
+[Learn JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+
+[Template Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 
 ---
 ---
 
 ## Things I want to know more about
 
-text and questions to add
+- String Interpolation or a template literal, its another type of string concatenation. Uses the '${ function name }' in order to remove having to use all the addition signs in the string concatenation.
