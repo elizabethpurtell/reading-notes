@@ -41,11 +41,11 @@
 
 [Class 02: Introduction To Web Development](/Code201-Notes/class02.md)
 
-[Class 03: Title](/Code201-Notes/class03.md)
+[Class 03: Lists, The Box Model, and Loops](/Code201-Notes/class03.md)
 
-[Class 04: Title](/Code201-Notes/class04.md)
+[Class 04: Links, Layouts, and Functions](/Code201-Notes/class04.md)
 
-[Class 05: Title](/Code201-Notes/class05.md)
+[Class 05: Images, Color, Text, and More Work With Functions](/Code201-Notes/class05.md)
 
 [Class 06: Title](/Code201-Notes/class06.md)
 
