@@ -1,4 +1,4 @@
-# Class 06 - Domain Modeling, Intro to the DOM, and Object Literal Notation
+# Class 06 - Problem Domain, Objects, and the DOM
 
 ## Statement
 

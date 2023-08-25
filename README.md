@@ -47,15 +47,15 @@
 
 [Class 05: Images, Color, Text, and More Work With Functions](/Code201-Notes/class05.md)
 
-[Class 06: Title](/Code201-Notes/class06.md)
+[Class 06: Domain Modeling, Intro to the DOM, and Object Literal Notation](/Code201-Notes/class06.md)
 
-[Class 07: Title](/Code201-Notes/class07.md)
+[Class 07: HTML Tables and JS Constructor Functions](/Code201-Notes/class07.md)
 
-[Class 08: Title](/Code201-Notes/class08.md)
+[Class 08: Layout with CSS](/Code201-Notes/class08.md)
 
-[Class 09: Title](/Code201-Notes/class09.md)
+[Class 09: Forms and Events](/Code201-Notes/class09.md)
 
-[Class 10: Title](/Code201-Notes/class10.md)
+[Class 10: Debugging and Error Handling](/Code201-Notes/class10.md)
 
 [Class 11: Title](/Code201-Notes/class11.md)
 
