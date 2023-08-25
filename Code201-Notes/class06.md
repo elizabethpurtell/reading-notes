@@ -74,6 +74,7 @@ This section of reading is going to help me grasp a better understanding of obje
 ### Bookmark and Review
 
 [Understanding the problem domain is the hardest part of programming](http://simpleprogrammer.com/2013/07/15/understanding-the-problem-domain-is-the-hardest-part-of-programming)
+
 [What’s the difference between primitive values and object references in JavaScript?](https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b)
 
 ---
