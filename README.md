@@ -57,7 +57,7 @@
 
 [Class 10: Debugging and Error Handling](/Code201-Notes/class10.md)
 
-[Class 11: Title](/Code201-Notes/class11.md)
+[Class 11: Audio, Video, Images](/Code201-Notes/class11.md)
 
 [Class 12: Title](/Code201-Notes/class12.md)
 
