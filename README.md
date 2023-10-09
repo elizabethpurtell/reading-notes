@@ -61,9 +61,9 @@
 
 [Class 12: Canvas and ChartJS](/Code201-Notes/class12.md)
 
-[Class 13: Title](/Code201-Notes/class13.md)
+[Class 13:  Introduction to Persistence with Local Storage](/Code201-Notes/class13.md)
 
-[Class 14: Title](/Code201-Notes/class14.md)
+[Class 14: Documentation, Project Selection, & Team Workflow](/Code201-Notes/class14.md)
 
 [Class 15: Title](/Code201-Notes/class15.md)
 
