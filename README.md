@@ -59,7 +59,7 @@
 
 [Class 11: Audio, Video, Images](/Code201-Notes/class11.md)
 
-[Class 12: Title](/Code201-Notes/class12.md)
+[Class 12: Canvas and ChartJS](/Code201-Notes/class12.md)
 
 [Class 13: Title](/Code201-Notes/class13.md)
 
