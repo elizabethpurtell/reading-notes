@@ -65,7 +65,7 @@
 
 [Class 14: Documentation, Project Selection, & Team Workflow](/Code201-Notes/class14.md)
 
-[Class 15: Title](/Code201-Notes/class15.md)
+[Class 14.2: Psychological Safety](/Code201-Notes/class14.2.md)
 
 ---
 ---
