@@ -72,6 +72,14 @@
 
 ## Code 301 Intermediate Software Development
 
+[Class 01:](/code-301-notes/class01.md)
+
+[Class 02:](/code-301-notes/class02.md)
+
+[Class 03:](/code-301-notes/class03.md)
+
+[Class 04:](/code-301-notes/class04.md)
+
 ---
 ---
 
